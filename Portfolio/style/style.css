@@ -77,7 +77,7 @@ nav img{
     background: linear-gradient(#FF8660, #9A33FF);
     font-weight: 800;
     -webkit-background-clip: text;
-            background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .introduction p{
@@ -112,7 +112,6 @@ nav img{
 #cv a{
     font-size: 16px;
     color: black;
-    
     font-weight: 700;
     text-decoration: none;
 }
